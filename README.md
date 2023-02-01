@@ -6,17 +6,13 @@
 
 - Subprocess
 - Prettytable
-- discord_webook -> DiscordWebhook | DiscordEmbed
+- discord-webook -> DiscordWebhook | DiscordEmbed
 
 # Wiexpose
 
 Expose wifi password your target has been connected to in the past
 
 
-## Authors
-
-- Twitter - [@o7ravenxd](https://twitter.com/o7ravenxd)
-- Github - [@o7ravenxd](https://github.com/o7raven)
 
 
 ## Features
@@ -42,7 +38,14 @@ cd src
 
 python wiexposeMain.py
 ```
-    
+## Authors
+
+- Twitter - [@o7ravenxd](https://twitter.com/o7ravenxd)
+- Github - [@o7ravenxd](https://github.com/o7raven)
+
+# Warning
+`This tool is for educational purposes only. I'm not responsible for any harm you can cause`
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
